@@ -1,0 +1,87 @@
+.header{
+	background-color: #66ff66;
+	height: 2400px;
+	width: 140vw;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	align-items: center;	
+}
+.logotip{
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+.logo-text{
+	font-size: 98px;
+	font-weight: 700;
+	color: #fff;
+	margin-top: 90px;
+	margin-left: 95px;
+}
+.menu{
+	display: flex;
+}
+.text-uslugi{
+	font-size: 79px;
+	color: #fff;
+	font-weight: 700;
+}
+.str{
+	height: 2px;
+	width: 100%;
+	margin-top: 50px;
+}
+.menu-btn{
+	color: #fff;
+	text-decoration: none;
+	font-size: 68px;
+	margin-top: 42px;
+}
+.btn{
+	color: #fff;
+	text-decoration: none;
+	margin-left: 33%;
+	transition: background-color 0.3s linear;
+}
+.str2{
+	height: 2px;
+	width: 100%;
+	margin-top: 50px;
+}
+.uslugi{
+	font-size: 75px;
+	font-weight: 700;
+	color: #fff;
+	margin-left: 120px;
+	margin-top: 30px;
+}
+.rem{
+	height: 450px;
+	margin-left: 20px;
+}
+.zam{
+	height: 450px;
+}
+.raz{
+	height: 450px;
+	margin-left: 20px;
+}
+.aks{
+	height: 450px;
+}
+.iconki1{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.iconki2{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.abs{
+	margin-top: 139px;
+	margin-left: 13%;
+}
+.btn:hover{
+	color: #003399;
+}
+
